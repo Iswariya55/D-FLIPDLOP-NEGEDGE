@@ -26,10 +26,6 @@ Therefore, D flip-flop always Hold the information, which is available on data i
 
 Next state of D flip-flop is always equal to data input, D for every positive transition of the clock signal. Hence, D flip-flops can be used in registers, shift registers and some of the counters.
 
-**Truth Table**
-
-![image](https://github.com/user-attachments/assets/ef2475e1-467e-4f3c-b9b2-126574db3032)
-![image](https://github.com/user-attachments/assets/4c18a82b-780e-462b-9c52-6380154c0a7c)
 
 
 **Procedure**
@@ -55,7 +51,7 @@ with negative edge-triggered clock.
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/da7c18f7-d42f-4969-aa78-9cb0650444c6)
+![Screenshot 2025-01-02 163056](https://github.com/user-attachments/assets/bea19c3c-92f0-420d-8fef-da7d2d97bac9)
 
 **RESULTS**
 
